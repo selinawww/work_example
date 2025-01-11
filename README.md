@@ -1,4 +1,5 @@
-# work_example
-Developed a novel speculative decoding method utilizing advanced statistical sampling techniques, achieving faster inference and enhanced token acceptance rates while ensuring long-range consistency in LLM outputs.
+Developed a novel speculative decoding method leveraging advanced statistical sampling techniques, achieving faster inference and improved token acceptance rates while maintaining long-range consistency in LLM outputs.
 
-This code portion apply the algorithm on the Alpaca dataset.
+This code applies the algorithm to the Alpaca dataset.
+
+It includes both the original speculative sampling algorithm and the novel approach. Multiple experiments were conducted to evaluate and compare the results. For a detailed explanation of the algorithm and experimental findings, please refer to the accompanying report.
