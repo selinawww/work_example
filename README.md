@@ -3,9 +3,9 @@
 
 ## Overview
 
-This repository presents a groundbreaking speculative decoding method, **TopK-ImpSpecDec**, designed to accelerate inference in Large Language Models (LLMs) while maintaining high-quality outputs. By combining **Top-K candidate selection** and **importance sampling**, this method addresses critical challenges in token generation, achieving:
+This repository presents a new speculative decoding method introduce in a deep learning course class project, **TopK-ImpSpecDec**, designed to accelerate inference in Large Language Models (LLMs) while maintaining high-quality outputs. By combining **Top-K candidate selection** and **importance sampling**, this method addresses critical challenges in token generation, achieving:
 
-- **Significantly higher token acceptance rates** compared to standard speculative decoding.
+- **Higher token acceptance rates** compared to standard speculative decoding.
 - **Enhanced inference speed** in long-text generation.
 - **Improved resource efficiency**, making it suitable for memory-constrained environments.
 
